@@ -1,0 +1,13 @@
+
+
+
+.block1{
+    margin-left: 100px;
+}
+
+#block{
+    margin-left: 100px;
+    width: 200px;
+    height: 100px;
+    background: red;
+}
